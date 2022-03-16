@@ -1,2 +1,3 @@
 Demo
-Django customer management platform
+Django Login Form
+
