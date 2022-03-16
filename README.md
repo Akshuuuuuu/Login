@@ -1,2 +1,2 @@
-# crash-course-CRM
+Demo
 Django customer management platform
